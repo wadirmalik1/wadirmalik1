@@ -10,3 +10,4 @@ I now have a strong understanding of the data engineering life cycle and a passi
 
 I enjoy working on challenging projects that require creative problem-solving and attention to detail, and I am always eager to learn new technologies and programming languages. I am a motivated and collaborative team player who is dedicated to delivering outstanding results on every project I work on.
 
+https://github-readme-stats.vercel.app/api?username=wadirmalik1&show_icons=true&&count_private=true&include_all_commits=true)
