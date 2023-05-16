@@ -3,7 +3,7 @@
 - 🌱 Graduated with MSc in Computer Science from University of York 
 - 🔭 I’m currently working as a Data Engineer
 - 🥅 2023 Goals: Maximise my learning, contribute to new projects
-- ⚡ Fun facts: I enjoy going to the gym, playing football and watrching anime
+- ⚡ Fun facts: I enjoy going to the gym, playing football and watching anime
 
 I worked as a recruitment consultant for 2.5 years but after covid I found that the market had been severly affected. As a result I decided to persue my MSc in Computer Science at Uni of York. During my studies I realised I wanted more hands on experience of coding project and in particular data engineering projects, so I joined AI Core in 2022 and completed their Data Engineering projects.
 
